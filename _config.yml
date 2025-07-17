@@ -3,7 +3,7 @@ email: jechoi@microsoft.com
 timezone: UTC
 baseurl: "/copilotagenthon"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/imagelogo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
