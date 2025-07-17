@@ -16,9 +16,6 @@ topmenu:
 - title: FAQ
   url: "faq/"
 
-- title: 공지사항
-  url: "news/"
-
 - title: 커뮤니티
   url: "community/"
 
