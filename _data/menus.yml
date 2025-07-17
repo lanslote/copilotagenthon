@@ -4,14 +4,29 @@ topmenu:
 - title: Home
   url: ""
 
-- title: About
+- title: 행사개요
   url: "about/"
 
-- title: Contact
-  url: "contact/"
+- title: 프로그램
+  url: "program/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: 참가안내
+  url: "registration/"
+
+- title: FAQ
+  url: "faq/"
+
+- title: 공지사항
+  url: "news/"
+
+- title: 커뮤니티
+  url: "community/"
+
+- title: 후원
+  url: "sponsor/"
+
+- title: 신청하기  
+  url: https://google.com/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -26,7 +41,3 @@ footermenu:
 
 - title: Contact
   url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
